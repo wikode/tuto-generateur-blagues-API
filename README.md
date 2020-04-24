@@ -5,4 +5,4 @@ API : https://bridge.buddyweb.fr/docs/blagues
 Modifier la scrollbar : https://css-tricks.com/almanac/properties/s/scrollbar/
 Gradients : https://webgradients.com/
 
-Live site demo : 
+Live site demo : https://wikode.github.io/tuto-generateur-blagues-API/
